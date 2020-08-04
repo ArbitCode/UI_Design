@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RentCar</string>
+    <string name="hello">Hello</string>
+    <string name="username">Raja</string>
+    <string name="search_elements">search elements</string>
+    <string name="finance">finance</string>
+    <string name="goals">Goal</string>
+    <string name="health">Health</string>
+    <string name="comfort">comfort</string>
+    <string name="dummy_text">love is simply dummy text of the printing and type settings in industry</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+    <string name="settings">Settings</string>
+</resources>
